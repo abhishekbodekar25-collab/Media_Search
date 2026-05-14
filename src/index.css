@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+#bottom{
+    background: linear-gradient(transparent , black);
+}
+
+:root{
+    --c1:rgb(47, 47, 228);
+    --c2:rgb(22, 46, 147);
+    --c3:rgb(26, 25, 83);
+    --c4:rgb(8, 6, 22);
+}
